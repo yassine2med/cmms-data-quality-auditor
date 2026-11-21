@@ -1,0 +1,15 @@
+wo_id,asset_id,location,description,priority,status,created,closed
+WO-1001,AHU-01,Building A Roof,Replace belts on air handler 1,High,Closed,2026-01-05,2026-01-07
+WO-1002,AHU-02,Building A Roof,Clean coils and check drain pan,Medium,Closed,2026-01-06,2026-01-12
+WO-1003,LT-114,Building B Floor 2,Replace failed corridor light fixture,Low,Open,2026-02-01,
+WO-1004,CH-01,Building C Plant,Chiller tripped on high pressure alarm,Emergency,In Progress,2026-02-03,
+WO-1005,,Building B Floor 1,Door closer broken at east entrance,Medium,Open,2026-02-04,
+WO-1006,PMP-07,Building C Plant,fix,High,Open,2026-02-05,
+WO-1007,EL-02,Building A Lobby,Elevator door sensor intermittent,Urgent,Open,2026-02-06,
+WO-1008,AHU-03,Building B Roof,Inspect filters and record pressure drop,Medium,Closed,2026-02-10,2026-02-08
+WO-1009,FCU-12,Building A Floor 3,Fan coil unit leaking at condensate line,High,Closed,2026-02-11,
+WO-1010,LT-220,Building C Floor 1,REPLACE EXIT SIGN BATTERY IN STAIRWELL,Low,Open,2026-02-12,2026-02-13
+WO-1010,LT-221,Building C Floor 2,Replace exit sign battery in stairwell,Low,Open,2026-02-12,
+WO-1011,BLR-01,Building C Plant,Annual boiler inspection and tube cleaning,Medium,Scheduled,2026-02-15,
+WO-1012,SF-04,Building B Roof,Supply fan vibration above normal limit,High,Open,15/02/2026,
+WO-1013,DW-03,,Domestic water leak in janitor closet,High,Open,2026-02-16,
