@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="cmms-data-quality-auditor" width="100%"></p>
+
 # cmms-data-quality-auditor
 
 [![CI](https://github.com/yassine2med/cmms-data-quality-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/cmms-data-quality-auditor/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
